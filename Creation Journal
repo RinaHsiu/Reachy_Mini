@@ -1,0 +1,15 @@
+# Reachy Mini
+
+## giving the "soul"  29/12/25
+1. first, we connected Mini Reachy to my windows laptop and battery
+2. next, we went the official Reachy Mini website 
+3. then, we navigated to control and downloaded the Reachy Mini Control app.
+4. it started to scan our robot but we can across some problems
+5. to solve these problems, we used ChatGPT to help us. they told us to use PowerShell to install and download the newest version of the app.
+6. after many failed attempts, we brougth Mini Reachy to LIFE!!!
+7. YAY!!!
+
+how to turn on
+1. go to Powershell and click the pointing up arrow (if it doesn't work, yell at dad)
+2. click the enter button
+3. Viola!! done!
